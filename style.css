@@ -5,13 +5,14 @@ body {
 td, th{
  vertical-align: middle !important;
  text-align: center !important;
- max-width: 300px !important;
+ max-width: 500px !important;
 }
 .left {
 	text-align: left !important;
 }
-
-
+p {
+	margin: 0;
+}
 ::-webkit-scrollbar { width: 10px; height: 5px;}
 ::-webkit-scrollbar-button {background: #31373e}
 ::-webkit-scrollbar-track-piece {background-color: #31373e; }
